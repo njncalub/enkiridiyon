@@ -10,8 +10,6 @@ Isinulat noong 135 A.C.E. ni **Epictetus**.
 Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html),
 na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
----
-
 ## 01
 
 ```text
