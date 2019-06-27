@@ -1,17 +1,22 @@
 # Ang Enkiridiyon
 
+[![Status][status-image]][status-url]
+
+[status-image]: https://img.shields.io/badge/translated_sections-1_of_52-blue.svg
+[status-url]: https://github.com/njncalub/yan-san/enkiridiyon
+
 Isinulat noong 135 A.C.E. ni **Epictetus**.
 
 Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html),
 na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
-| Translated | Out of |
-|:----------:|:------:|
-| 1          | 52     |
+| Total translated | Out of |
+|:----------------:|:------:|
+| 01               | 52     |
 
 ---
 
-## 1
+## 01
 
 ```text
 May ilang mga bagay na nasa ating kontrol at ang iba naman ay hindi.
