@@ -1,18 +1,57 @@
 # Ang Enkiridiyon
 
-Ni **Epictetus**
+Isinulat noong 135 A.C.E. ni **Epictetus**.
 
-Isinulat noong 135 A.C.E.
+Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html),
+na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
-Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html), na isinasalin ngayon sa wikang Filipino gamit ang Google Translate.
+| Translated | Out of |
+|:----------:|:------:|
+| 1          | 52     |
 
-1. Ang ilang mga bagay ay nasa aming kontrol at ang iba ay hindi. Ang mga bagay sa aming kontrol ay opinyon, pagtugis, pagnanais, pag-ayaw, at, sa isang salita, anuman ang aming sariling mga pagkilos. Ang mga bagay na hindi sa aming kontrol ay katawan, ari-arian, reputasyon, utos, at, sa isang salita, kahit anong hindi ang aming sariling mga pagkilos.
+---
 
-Ang mga bagay sa aming kontrol ay likas na libre, walang pigil, walang hanggan; ngunit ang mga hindi sa aming kontrol ay mahina, slavish, pinigilan, na kabilang sa iba. Tandaan, kung gayon, kung ipagpalagay mo na ang mga bagay na slavish ayon sa likas na katangian ay libre din, at kung ano ang pagmamay-ari ng iba ay iyong sarili, pagkatapos ikaw ay hindered. Maghihintay ka, ikaw ay maaabala, at makakasumpong ka ng kasalanan sa mga diyos at sa mga tao. Ngunit kung ipagpalagay mo na ang iyong sarili lamang ang iyong sarili, at kung ano ang pagmamay-ari ng iba tulad ng tunay na ito, kung gayon walang sinuman ang pipilit sa iyo o pigilin ka. Dagdag pa, makakakita ka ng walang kasalanan o walang akusahan. Wala kang gagawin laban sa iyong kalooban. Walang nasaktan sa iyo, wala kang mga kaaway, at hindi ka saktan.
+## 1
 
-Kung kaya't nagtutuon sa gayong mga dakilang bagay, tandaan na hindi mo dapat pahintulutan ang iyong sarili na dalhin, kahit na may kaunting pagkahilig, patungo sa pagkakaroon ng mas mababang mga bagay. Sa halip, kailangan mong ganap na umalis sa ilang mga bagay at para sa kasalukuyang ipagpaliban ang natitira. Ngunit kung gagawin mo ang parehong mga dakilang bagay, kasama ang kapangyarihan at kayamanan, hindi ka makakakuha ng kahit na sa huli, sapagkat tinutulungan mo rin ang dating: ngunit lubos mong mabibigo ang dating, kung saan nag-iisa ang kaligayahan at kalayaan ay nakamit .
+```text
+May ilang mga bagay na nasa ating kontrol at ang iba naman ay hindi.
+Ang mga bagay na nasa ating kontrol ay mga opinyon, paghabol, pagnanais, pagtutol, at,
+  sa isang salita, kung anuman ang sarili nating mga aksyon.
 
-Magtrabaho, samakatuwid upang sabihin sa bawat malupit na hitsura, "Ikaw ay isang anyo lamang, at hindi ganap na ang bagay na nais mong maging." At pagkatapos suriin ito sa pamamagitan ng mga alituntuning mayroon ka, at una, at higit sa lahat, sa pamamagitan ng ito: kung ito ay may kinalaman sa mga bagay na sa aming sariling kontrol, o sa mga hindi; at, kung may kinalaman sa anumang bagay na wala sa aming kontrol, maging handa upang sabihin na ito ay wala sa iyo.
+Ang mga bagay na wala sa ating kontrol ay katawan, ari-arian, reputasyon, kapangyarihan,
+  at, sa isang salita, lahat ng hindi natin sariling mga aksyon.
+Ang mga bagay na nasa ating kontrol ay likas na malaya, hindi mapipigilan, hindi mahahadlangan;
+  ngunit ang wala sa ating kontrol ay marupok, mapang-aalipin, pinipigilan, pagmamay-ari ng iba.
+Tandaan, kung gayon, na kung iisipin mo na ang mga bagay na likas na mapang-aalipin ay malaya din,
+  at ang mga ariarian ng iba ay iyo, ikaw ay maaantala.
+Ikaw ay magdadalamhati, ikaw ay maaabala, at ikaw ay maghahanap ng kasalanan sa mga diyos
+  at sa mga tao.
+Ngunit kung iisipin mo na tanging ariarian mo lamang ang pagmamay-ari mo,
+  at ang ariarian ng iba ay hindi sa iyo, na talaga namang totoo,
+  ay walang sinuman ang makakapuwersa o makakapigil sa iyo.
+Higit pa, hindi ka maghahanap ng kasalanan kaninuman o mag-aakusa ng kung sinuman.
+Wala kang gagawing labag sa iyong kalooban.
+Walang makakaapekto sa iyo, wala kang magiging kaaway, at hindi ka masasaktan.
+
+Sa paghabol ngayon sa mga mahahalagang bagay katulad noon, tandaan na hindi dapat pahintulutan
+  ang iyong sarili na madala, kahit gaanong kaliit na inklinasyon, patungo sa pagtamo ng
+  mas mababang mga bagay.
+Sa halip, kailangan mong ganap na ihinto ang ilang mga bagay at para sa kasalukuyan
+  ipagpaliban ang iba.
+Ngunit kung pareho mong makakamit ang mga mahahalagang bagay, kasama ang kapangyarihan at kayamanan,
+  hindi mo makukuha ng pangalawa, dahil pinuntirya mo rin ang nauna: at lubos kang mabibigo sa
+  nauna, kung saan ito lamang ang paraaan para makamit ang kaligayahan at kalayaan.
+
+Magsikap ngayon, upang masabi sa bawat mabagsik na kaanyuan,
+  "Ikaw ay isang anyo lamang, at hindi ang tunay na bagay na ipinapakita mo."
+At pagkatapos, suriin ito sa pamamagitan ng mga alituntuning mayroon ka,
+  at una, at higit sa lahat, sa pamamagitan nito:
+  kung ito ay may kinalaman sa mga bagay na naasa ating kontrol, o sa mga hindi;
+  at, kung ito'y may kinalaman sa anumang bagay na wala sa ating kontrol,
+  maging handa sabihin na ito ay bale wala lang ito sa iyo.
+```
+
+<!--
 
 2. Tandaan na ang sumusunod na pagnanais ay nangangako na makuha ang iyong nais; at mga pang-aabuso na mga pangako ang pag-iwas sa kung saan ikaw ay ayaw. Gayunpaman, siya na nabigo upang makuha ang bagay ng kanyang pagnanais ay nabigo, at siya na nakakuha ng bagay ng kanyang pag-aalinlangan ay kahabag-habag. Kung, kung gayon, ikukumpara mo ang iyong pag-ayaw sa mga bagay na iyon lamang na salungat sa likas na paggamit ng iyong mga kakayahan, na mayroon ka sa iyong sariling kontrol, hindi ka na magkakaroon ng anuman kung saan ikaw ay ayaw. Ngunit kung ikaw ay ayaw sa sakit, o kamatayan, o kahirapan, ikaw ay magiging kahabag-habag. Alisin ang pag-ayaw, pagkatapos, mula sa lahat ng mga bagay na wala sa aming kontrol, at ilipat ito sa mga bagay na salungat sa likas na katangian ng kung ano ang nasa aming kontrol. Subalit, sa kasalukuyan, ganap na mapigilan ang pagnanais: sapagkat, kung nais mo ang alinman sa mga bagay na wala sa iyong sariling kontrol, kailangan mong maging bigo; at ng mga kung saan ay, at kung saan ito ay pinuri sa pagnanais, wala pa sa iyong pag-aari. Gamitin lamang ang naaangkop na mga aksyon ng pagtugis at pag-iwas; at kahit na ang mga ito nang basta-basta, at may kahinahunan at reserbasyon.
 
@@ -157,3 +196,5 @@ At ang pangatlong ito:
 
 "0 Crito, kung ganito ang pakiramdam ng mga diyos, kaya't ito'y maging sinuman. Maaaring patayin ako ni Anytus at Melito, ngunit nasaktan ako."
 Crito at Apology ng Plato
+
+-->
