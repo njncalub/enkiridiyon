@@ -2,7 +2,7 @@
 
 [![Status][status-image]][status-url]
 
-[status-image]: https://img.shields.io/badge/translated_sections-1_of_52-blue.svg
+[status-image]: https://img.shields.io/badge/translated_sections-2_of_52-blue.svg
 [status-url]: https://github.com/njncalub/yan-san/enkiridiyon
 
 Isinulat noong 135 A.C.E. ni **Epictetus**.
@@ -14,7 +14,7 @@ na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
 ```text
 May ilang mga bagay na nasa ating kontrol at ang iba naman ay hindi.
-Ang mga bagay na nasa ating kontrol ay mga opinyon, paghabol, pagnanais, pagtutol, at,
+Ang mga bagay na nasa ating kontrol ay mga opinyon, paghabol, pagnanais, pag-ayaw, at,
   sa isang salita, kung anuman ang sarili nating mga aksyon.
 
 Ang mga bagay na wala sa ating kontrol ay katawan, ari-arian, reputasyon, kapangyarihan,
@@ -50,9 +50,31 @@ At pagkatapos, suriin ito sa pamamagitan ng mga alituntuning mayroon ka,
   maging handa sabihin na ito ay bale wala lang ito sa iyo.
 ```
 
-<!--
+## 02
 
-2. Tandaan na ang sumusunod na pagnanais ay nangangako na makuha ang iyong nais; at mga pang-aabuso na mga pangako ang pag-iwas sa kung saan ikaw ay ayaw. Gayunpaman, siya na nabigo upang makuha ang bagay ng kanyang pagnanais ay nabigo, at siya na nakakuha ng bagay ng kanyang pag-aalinlangan ay kahabag-habag. Kung, kung gayon, ikukumpara mo ang iyong pag-ayaw sa mga bagay na iyon lamang na salungat sa likas na paggamit ng iyong mga kakayahan, na mayroon ka sa iyong sariling kontrol, hindi ka na magkakaroon ng anuman kung saan ikaw ay ayaw. Ngunit kung ikaw ay ayaw sa sakit, o kamatayan, o kahirapan, ikaw ay magiging kahabag-habag. Alisin ang pag-ayaw, pagkatapos, mula sa lahat ng mga bagay na wala sa aming kontrol, at ilipat ito sa mga bagay na salungat sa likas na katangian ng kung ano ang nasa aming kontrol. Subalit, sa kasalukuyan, ganap na mapigilan ang pagnanais: sapagkat, kung nais mo ang alinman sa mga bagay na wala sa iyong sariling kontrol, kailangan mong maging bigo; at ng mga kung saan ay, at kung saan ito ay pinuri sa pagnanais, wala pa sa iyong pag-aari. Gamitin lamang ang naaangkop na mga aksyon ng pagtugis at pag-iwas; at kahit na ang mga ito nang basta-basta, at may kahinahunan at reserbasyon.
+```text
+Tandaan na ang paghabol sa iyong mga ninanais ay nagpapaasa na makukuha mo ang iyong ninais;
+  at ang pag-ayaw ay nagpapaasa sa pag-iwas sa mga bagay na iyong kinaaayawan.
+Datapwa't, siya na nabigong makuha ang bagay na kanyang ninanais ay madidismaya,
+  at siya na nakakuha ng bagay na kanyang kinaaayawan ay kaawa-awa.
+Gayon, kung ililimita mo ang iyong kinakaayawan sa mga bagay na salungat lamang sa likas na 
+  paggamit ng iyong mga kakayahan, na nasa iyo ring kontrol,
+  hindi ka na magkakaroon ng anumang bagay na iyong kinaaayawan.
+Ngunit kung ikaw ay may pag-ayaw sa sakit, o kamatayan, o kahirapan,
+  ikaw ay magiging kaawa-awa.
+Alisin, samakatuwid, ang pag-ayaw, sa lahat ng mga bagay na wala sa ating kontrol,
+  at ilipat ito sa mga bagay na salungat sa katangian ng ating mga nakokontrol.
+Pero, sa kasalukuyan, ganap na pigilan ang pagnanais:
+  sapagkat, kung nais mo ang alinman sa mga bagay na wala sa iyong sariling kontrol,
+  ikaw ay tiyak na madidismaya;
+  at sa mga bagay naman na nasa iyong kontrol, na kapuri-puri ring naisin,
+  wala pa ito sa iyong pag-aari.
+Gamitin lamang ang naaangkop na mga aksyon na pagtugis at pag-iwas;
+  at, kahit ang mga ito, ay gamitin lamang nang bahagya,
+  at nang may pagkamahinahon at reserbasyon.
+```
+
+<!--
 
 3. Sa pagsasaalang-alang sa anumang mga bagay na nagbibigay sa iyo ng galak, ay kapaki-pakinabang, o malalim na mahal, tandaan na sabihin sa iyong sarili kung ano ang pangkalahatang likas na katangian nila, simula sa pinaka hindi gaanong mahalaga bagay. Kung, halimbawa, mahilig ka sa isang tukoy na tasang karamik, paalalahanan ang iyong sarili na lamang ang mga ceramic tasa sa pangkalahatan kung saan ikaw ay mahilig. Pagkatapos, kung masira ito, hindi ka maaabala. Kung hinagkan mo ang iyong anak, o ang iyong asawa, sabihin mong halikan mo lamang ang mga bagay na tao, at sa gayon ay hindi ka maaabala kung alin man sa kanila ay namatay.
 
