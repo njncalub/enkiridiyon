@@ -3,7 +3,7 @@
 [![Status][status-image]][status-url]
 
 [status-image]: https://img.shields.io/badge/translated_sections-2_of_52-blue.svg
-[status-url]: https://github.com/njncalub/yan-san/enkiridiyon
+[status-url]: https://njncalub.github.io/enkiridiyon
 
 Isinulat noong 135 A.C.E. ni **Epictetus**.
 
@@ -14,17 +14,19 @@ na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
 ```text
 May ilang mga bagay na nasa ating kontrol at ang iba naman ay hindi.
-Ang mga bagay na nasa ating kontrol ay mga opinyon, paghabol, pagnanais, pag-ayaw, at,
-  sa isang salita, kung anuman ang sarili nating mga aksyon.
+Ang mga bagay na nasa ating kontrol ay mga opinyon, paghabol, pagnanais,
+  pag-ayaw, at, sa isang salita, kung anuman ang sarili nating mga aksyon.
 
-Ang mga bagay na wala sa ating kontrol ay katawan, ari-arian, reputasyon, kapangyarihan,
-  at, sa isang salita, lahat ng hindi natin sariling mga aksyon.
-Ang mga bagay na nasa ating kontrol ay likas na malaya, hindi mapipigilan, hindi mahahadlangan;
-  ngunit ang wala sa ating kontrol ay marupok, mapang-aalipin, pinipigilan, pagmamay-ari ng iba.
-Tandaan, kung gayon, na kung iisipin mo na ang mga bagay na likas na mapang-aalipin ay malaya din,
-  at ang mga ariarian ng iba ay iyo, ikaw ay maaantala.
-Ikaw ay magdadalamhati, ikaw ay maaabala, at ikaw ay maghahanap ng kasalanan sa mga diyos
-  at sa mga tao.
+Ang mga bagay na wala sa ating kontrol ay katawan, ari-arian, reputasyon,
+  kapangyarihan, at, sa isang salita, lahat ng hindi natin sariling mga aksyon.
+Ang mga bagay na nasa ating kontrol ay likas na malaya,
+  hindi mapipigilan, hindi mahahadlangan;
+  ngunit ang wala sa ating kontrol ay marupok, mapang-aalipin, pinipigilan,
+  pagmamay-ari ng iba.
+Tandaan, kung gayon, na kung iisipin mo na ang mga bagay na likas na mapang-aalipin
+  ay malaya din, at ang mga ariarian ng iba ay iyo, ikaw ay maaantala.
+Ikaw ay magdadalamhati, ikaw ay maaabala, at ikaw ay maghahanap ng kasalanan sa
+  mga diyos at sa mga tao.
 Ngunit kung iisipin mo na tanging ariarian mo lamang ang pagmamay-ari mo,
   at ang ariarian ng iba ay hindi sa iyo, na talaga namang totoo,
   ay walang sinuman ang makakapuwersa o makakapigil sa iyo.
@@ -32,14 +34,15 @@ Higit pa, hindi ka maghahanap ng kasalanan kaninuman o mag-aakusa ng kung sinuma
 Wala kang gagawing labag sa iyong kalooban.
 Walang makakaapekto sa iyo, wala kang magiging kaaway, at hindi ka masasaktan.
 
-Sa paghabol ngayon sa mga mahahalagang bagay katulad noon, tandaan na hindi dapat pahintulutan
-  ang iyong sarili na madala, kahit gaanong kaliit na inklinasyon, patungo sa pagtamo ng
-  mas mababang mga bagay.
+Sa paghabol ngayon sa mga mahahalagang bagay katulad noon,
+  tandaan na hindi dapat pahintulutan ang iyong sarili na madala,
+  kahit gaanong kaliit na inklinasyon, patungo sa pagtamo ng mas mababang mga bagay.
 Sa halip, kailangan mong ganap na ihinto ang ilang mga bagay at para sa kasalukuyan
   ipagpaliban ang iba.
-Ngunit kung pareho mong makakamit ang mga mahahalagang bagay, kasama ang kapangyarihan at kayamanan,
-  hindi mo makukuha ng pangalawa, dahil pinuntirya mo rin ang nauna: at lubos kang mabibigo sa
-  nauna, kung saan ito lamang ang paraaan para makamit ang kaligayahan at kalayaan.
+Ngunit kung pareho mong makakamit ang mga mahahalagang bagay,
+  kasama ang kapangyarihan at kayamanan, hindi mo makukuha ng pangalawa,
+  dahil pinuntirya mo rin ang nauna: at lubos kang mabibigo sa nauna,
+  kung saan ito lamang ang paraaan para makamit ang kaligayahan at kalayaan.
 
 Magsikap ngayon, upang masabi sa bawat mabagsik na kaanyuan,
   "Ikaw ay isang anyo lamang, at hindi ang tunay na bagay na ipinapakita mo."
