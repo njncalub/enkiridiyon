@@ -2,13 +2,12 @@
 
 [![Status][status-image]][status-url]
 
-[status-image]: https://img.shields.io/badge/translated_sections-2_of_52-blue.svg
+[status-image]: https://img.shields.io/badge/translated_sections-3_of_52-blue.svg
 [status-url]: https://njncalub.github.io/enkiridiyon
 
 Isinulat noong 135 A.C.E. ni **Epictetus**.
 
-Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html),
-na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
+Isinalin sa wikang Ingles ni [Elizabeth Carter](http://classics.mit.edu/Epictetus/epicench.html), na isinasalin ngayon sa wikang Filipino sa tulong ng Google Translate.
 
 ## 01
 
@@ -41,9 +40,14 @@ Alisin, samakatuwid, ang pag-ayaw, sa lahat ng mga bagay na wala sa ating kontro
 Pero, sa kasalukuyan, ganap na pigilan ang pagnanais: sapagkat, kung nais mo ang alinman sa mga bagay na wala sa iyong sariling kontrol, ikaw ay tiyak na madidismaya; at sa mga bagay naman na nasa iyong kontrol, na kapuri-puri ring naisin, wala pa ito sa iyong pag-aari.
 Gamitin lamang ang naaangkop na mga aksyon na pagtugis at pag-iwas; at, kahit ang mga ito, ay gamitin lamang nang bahagya, at nang may pagkamahinahon at reserbasyon.
 
-<!--
+## 03
 
-3. Sa pagsasaalang-alang sa anumang mga bagay na nagbibigay sa iyo ng galak, ay kapaki-pakinabang, o malalim na mahal, tandaan na sabihin sa iyong sarili kung ano ang pangkalahatang likas na katangian nila, simula sa pinaka hindi gaanong mahalaga bagay. Kung, halimbawa, mahilig ka sa isang tukoy na tasang karamik, paalalahanan ang iyong sarili na lamang ang mga ceramic tasa sa pangkalahatan kung saan ikaw ay mahilig. Pagkatapos, kung masira ito, hindi ka maaabala. Kung hinagkan mo ang iyong anak, o ang iyong asawa, sabihin mong halikan mo lamang ang mga bagay na tao, at sa gayon ay hindi ka maaabala kung alin man sa kanila ay namatay.
+Sa pagsasaalang-alang sa anumang mga bagay na nagbibigay sa iyo ng tuwa, kapaki-pakinabang, o taos-pusong minamahal, tandaan mong sabihin sa iyong sarili kung ano ang pangkalahatang katangian nila, simula sa pinaka hindi gaanong makabuluhang mga bagay.
+Kung, halimbawa, ay nahibang ka sa isang tasang karamik, ipaalala mo sa iyong sarili na karaniwang tasang karamik lamang ang iyong kinahihibangan.
+Gayon, kung masisira ito, ay hindi ka maaabala.
+Kung hinagkan mo ang iyong anak, o ang iyong asawa, sabihin mong ang hinalikan mo ay mortal na tao lamang, at sa gayon ay hindi ka maaabala kung mamamatay ang alin man sa kanila.
+
+<!--
 
 4. Kapag nagpapatuloy ka sa anumang pagkilos, paalalahanan ang iyong sarili kung ano ang likas na pagkilos. Kung ikaw ay maligo, isipin ang mga bagay na kadalasang nangyayari sa paliguan: ang ilang mga tao ay sumisid sa tubig, ilang itulak, ilang ginagamit ang mapang-abusong wika, at iba pa ang nakawin. Kaya mas ligtas kang pumunta tungkol sa pagkilos na ito kung sasabihin mo sa iyong sarili, "Ako ngayon ay maligo, at panatilihin ang aking sariling isip sa isang estado na naaayon sa likas na katangian." At sa parehong paraan tungkol sa bawat iba pang pagkilos. Para sa ganito, kung may anumang hadlang na lumulubog sa paliligo, handa mo itong sabihing, "Hindi lamang upang maligo na nais ko, kundi upang panatilihin ang aking isipan sa isang kalagayan na naaayon sa kalikasan at hindi ko ito itatabi kung ako ay bothered sa mga bagay na mangyayari.
 
