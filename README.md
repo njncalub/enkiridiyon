@@ -5,7 +5,7 @@
 
 [gt-status-image]: https://img.shields.io/badge/gamit_ang_Google_Translate-52_sa_52-blue.svg
 [gt-status-url]: https://njncalub.github.io/enkiridiyon
-[humanized-status-image]: https://img.shields.io/badge/manu--manong_pagsasalin-3_sa_52-orange.svg
+[humanized-status-image]: https://img.shields.io/badge/manu--manong_pagsasalin-4_sa_52-orange.svg
 [humanized-status-url]: https://njncalub.github.io/enkiridiyon
 
 Isinulat noong 135 A.C.E. ni **Epictetus**.
@@ -52,7 +52,11 @@ Kung hinagkan mo ang iyong anak, o ang iyong asawa, sabihin mong ang hinalikan m
 
 ## 04
 
-Kapag nagpapatuloy ka sa anumang pagkilos, paalalahanan ang iyong sarili kung ano ang likas na pagkilos. Kung ikaw ay maligo, isipin ang mga bagay na kadalasang nangyayari sa paliguan: ang ilang mga tao ay sumisid sa tubig, ilang itulak, ilang ginagamit ang mapang-abusong wika, at iba pa ang nakawin. Kaya mas ligtas kang pumunta tungkol sa pagkilos na ito kung sasabihin mo sa iyong sarili, "Ako ngayon ay maligo, at panatilihin ang aking sariling isip sa isang estado na naaayon sa likas na katangian." At sa parehong paraan tungkol sa bawat iba pang pagkilos. Para sa ganito, kung may anumang hadlang na lumulubog sa paliligo, handa mo itong sabihing, "Hindi lamang upang maligo na nais ko, kundi upang panatilihin ang aking isipan sa isang kalagayan na naaayon sa kalikasan at hindi ko ito itatabi kung ako ay bothered sa mga bagay na mangyayari.
+Habang ikaw ay gumagawa ng anumang aksyon, paalalahanan ang iyong sarili kung ano ang uri ng aksyong iyon.
+Kung ikaw ay maligo sa pampublikong paliguan, isipin ang mga bagay na kadalasang nangyayari sa paliguan: ang ilang mga tao ay nagsasaboy ng tubig, ang ilan ay nanunulak, ang ilan ay gumagamit ng nakakasakit na salita, at ang ilan ay nangungupit.
+Kaya mas matiwasay mong magagawa ang aksyong ito kung sasabihin mo sa iyong sarili, "Ako ngayon ay maliligo, at pananatilihin ko ang aking isip sa isang kalagayan na naaayon sa kalikasan."
+At gamitin rin ang paraang ito sa bawat iba pang mga aksyon.
+Kaya naman, kung may anumang hadlang na lilitaw sa paliligo, handa mong masasabi, "Hindi lamang pagligo ang ninanais ko, kundi mapanatili rin ang aking isipan sa isang kalagayan na naaayon sa kalikasan; at hindi ko ito mapapanatili kung ako ay maaabala sa mga bagay na nangyayari.
 
 ## 05
 
